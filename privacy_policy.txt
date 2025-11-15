@@ -1,0 +1,62 @@
+Privacy Policy for ProFollow App
+
+Last Updated: January 2025
+
+ProFollow (“we”, “our”, or “the App”) is committed to protecting your privacy.
+This Privacy Policy explains how the app handles user information.
+
+1. Information We Collect
+The app may collect the following information ONLY when you manually enter it:
+- Name
+- Phone Number
+- Address
+- Business Details (customer/vendor entries, items, bills, GST, etc.)
+
+This information is saved only on your device inside a secure local database (SQLite).
+
+2. Device Permissions
+The app may request the following permissions:
+
+a) READ_CONTACTS (Optional)
+Used only when you manually pick a contact to auto-fill customer/vendor/Staff phone number.
+The app never reads your full contact list automatically and never uploads contacts anywhere.
+
+b) Storage Access
+Used only for:
+- Generating PDF bills
+- Saving PDF files locally
+
+We do not access or upload any files.
+
+3. How Your Data Is Used
+All data is stored locally on your device and is used only for:
+- Billing
+- Customer management
+- Inventory
+- Reports
+
+We do NOT:
+- Collect data in the background
+- Store data on our servers
+- Sell or share data with third parties
+- Upload business or personal data
+
+4. Data Sharing
+We do not share any personal or business data with anyone.
+
+5. Data Security
+- All data is stored locally in SQLite on your device.
+- No data leaves the device.
+- Uninstalling the app or clearing app data will delete all stored information.
+
+6. Children's Privacy
+The app is not intended for children under 13.
+
+7. Changes to This Policy
+We may update this privacy policy as needed.
+Users will be notified inside the Play Store listing if major changes occur.
+
+8. Contact Us
+If you have any questions, please contact:
+
+fusionforgesoftware@gmail.com
